@@ -5,6 +5,8 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
+  schedule:
+    - cron: '0 0 * * 0'  # Запуск каждое воскресенье в полночь по UTC
   workflow_dispatch:
 
 jobs:
