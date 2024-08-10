@@ -2,12 +2,12 @@
 
 Make executable
 ```
-bash
+shell
 chmod +x install.sh
 ```
 
 Run script
 ```
-bash
+shell
 ./install.sh
 ```
