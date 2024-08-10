@@ -1,3 +1,13 @@
 # Docker Install Script
 
-```shell ./install.sh```
+Make executable
+```
+bash
+chmod +x install.sh
+```
+
+Run script
+```
+bash
+./install.sh
+```
